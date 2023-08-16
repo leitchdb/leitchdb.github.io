@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duncan Leitch Lab"
+title                    : "Leitch Lab"
 title_separator          : "-"
 name                     : &name "Duncan Leitch"
 description              : &description "personal description"
